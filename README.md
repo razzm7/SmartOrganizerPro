@@ -58,7 +58,7 @@ The utility uses a `.bat` launcher and a `.ps1` PowerShell script.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SmartOrganizerPro.git
+git clone https://github.com/razzm7/SmartOrganizerPro.git
 ```
 
 Alternatively, download the repository as a ZIP file from GitHub and extract it.
@@ -218,7 +218,7 @@ Before publishing, add a `LICENSE` file with the terms under which others may us
 
 **YOUR NAME**
 
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: [@razzm7](https://github.com/razzm7)
 
 ---
 
